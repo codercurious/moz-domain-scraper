@@ -1,5 +1,5 @@
 # Moz Domain SEO Metrics Scraper
-Interested in using this scraper? Get it here: [Moz Domain SEO Metrics Scraper](https://apify.com/curious_coder/moz-domain-scraper)
+Interested in using this scraper? Get it here: [Moz Domain SEO Metrics Scraper](https://apify.com/curious_coder/moz-domain-scraper?fpr=ve081&fp_sid=github_moz-domain-scraper)
 ### Introduction to Moz and its Importance
 
 #### - What is Moz ?
@@ -58,6 +58,6 @@ Navigating the vast world of SEO can be daunting, but with tools like the Moz Do
 	"external_urls_to_url": 10198,
 	"page_authority": 50,
 	"spam_score": 3,
-	"url": "https://apify.com/"
+	"url": "https://apify.com/"?fpr=ve081&fp_sid=github_moz-domain-scraper
 }
 ```
